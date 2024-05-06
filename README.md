@@ -1,1 +1,1 @@
-# itsy-bitsy-pytorch
+<pre>learning pytorch, simple notebooks, largely copied..🖖</pre>
